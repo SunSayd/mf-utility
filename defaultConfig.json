@@ -1,0 +1,18 @@
+{
+  "coreModule": {
+    "path": "/Users/kakusa/WebstormProjects/okolo-crm-core"
+  },
+
+  "modules": [
+    {
+      "path": "/Users/kakusa/WebstormProjects/okolo-crm-core",
+      "isRemote": false,
+      "isCore": true
+    },
+    {
+      "path": "/Users/kakusa/WebstormProjects/okolo-crm-core-module",
+      "isRemote": false,
+      "isCore": false
+    }
+  ]
+}

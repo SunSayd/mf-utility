@@ -1,0 +1,19 @@
+{
+  "name": "am-front-load",
+  "version": "1.0.0",
+  "description": "Библиотека с набором функций для подгрузки компонентов",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "lint": "echo \"No lint specified\""
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4",
+    "yargs": "^13.2.4"
+  },
+  "author": "antimarket",
+  "license": "ISC"
+}
